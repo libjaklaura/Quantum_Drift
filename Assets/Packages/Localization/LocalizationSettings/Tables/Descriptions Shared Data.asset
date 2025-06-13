@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Descriptions Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Descriptions
+  m_TableCollectionNameGuidString: e3b1d31b6db712b489a0da81d70d69d6
+  m_Entries:
+  - m_Id: 17392848011264
+    m_Key: spacesuits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17731823271936
+    m_Key: dna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17929882501120
+    m_Key: dna_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19199372492800
+    m_Key: health
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20346900512768
+    m_Key: health_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21963607572480
+    m_Key: rockets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22235276836864
+    m_Key: rockets_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7344902045696
+    m_Key: sun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7387738472448
+    m_Key: sun_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23388068708352
+    m_Key: mercury_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23736363712512
+    m_Key: venus_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23889439031296
+    m_Key: earth_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7304649310208
+    m_Key: moon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24307850215424
+    m_Key: moon_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24435508051968
+    m_Key: mars_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24892112568320
+    m_Key: jupiter_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25051114438656
+    m_Key: saturn_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25169897127936
+    m_Key: neptune_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25484184715264
+    m_Key: uranus_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25828562239488
+    m_Key: laika_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26116966776832
+    m_Key: apollo11_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26312714944512
+    m_Key: rover
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26555992965120
+    m_Key: rover_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26906498367488
+    m_Key: food
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27168738836480
+    m_Key: sleep
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434523492352
+    m_Key: sleep_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27698831753216
+    m_Key: voyager_text
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1694542454328918037
+  references:
+    version: 2
+    RefIds:
+    - rid: 1694542454328918037
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1747603251725

@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Questions_sk
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: sk
+  m_SharedData: {fileID: 11400000, guid: c5470e116f198d644b631fd96db8bd26, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 12948275200
+    m_Localized: "\nKto bol prv\xFDm \u010Dlovekom, ktor\xFD prist\xE1l na Mesiaci?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46698269704192
+    m_Localized: "\nKo\u013Eko plan\xE9t je v slne\u010Dnej s\xFAstave?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47114629873664
+    m_Localized: "\nAk\xFD typ skafandra pou\u017E\xEDvaj\xFA astronauti po\u010Das
+      v\xFDstupov do vesm\xEDru? (skratka)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47420595961856
+    m_Localized: "\nAk\xFD je priemer Zeme? (v km)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47652482252800
+    m_Localized: "\nAko sa vol\xE1 najnov\u0161ie vozidlo (rover) na Marse?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47935870402560
+    m_Localized: "\nZ ak\xE9ho prvku je Slnko z v\xE4\u010D\u0161ej \u010Dasti zlo\u017Een\xE9
+      okrem vod\xEDka? (chemick\xE1 zna\u010Dka)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48216842633216
+    m_Localized: "\nAko sa vol\xE1 sl\xE1vny vesm\xEDrny pes?"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48630107406336
+    m_Localized: "\nKo\u013Eko v\xFDchodov a z\xE1padov slnka vidia astronauti za
+      de\u0148 vo vesm\xEDre?"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

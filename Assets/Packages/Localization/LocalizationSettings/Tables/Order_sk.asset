@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Order_sk
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: sk
+  m_SharedData: {fileID: 11400000, guid: 0447138d43703b9468b563241f0441ee, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1273756057600
+    m_Localized: "Prv\xFD \u010Dlovek vo vesm\xEDre"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1527641473024
+    m_Localized: "Prist\xE1tie na Mesiaci"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1706876665856
+    m_Localized: "Prv\xE1 vesm\xEDrna stanica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1862657310720
+    m_Localized: "Prist\xE1tie na Marse"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847209025536
+    m_Localized: Poradie.exe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9836314427392
+    m_Localized: "Merk\xFAr"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9960272887808
+    m_Localized: Zem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10034109415424
+    m_Localized: "Venu\u0161a"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10102732423168
+    m_Localized: "Nept\xFAn"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10537186820096
+    m_Localized: "Ur\xE1n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11200490831872
+    m_Localized: "Poradie_ve\u013Ekosti.exe"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

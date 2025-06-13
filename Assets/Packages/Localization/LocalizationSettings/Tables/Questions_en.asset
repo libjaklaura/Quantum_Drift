@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Questions_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: c5470e116f198d644b631fd96db8bd26, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 12948275200
+    m_Localized: '
+
+      Who was the first human to land on the Moon?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 46698269704192
+    m_Localized: '
+
+      How many planets are in the solar system?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47114629873664
+    m_Localized: '
+
+      What type of spacesuit is used by astronauts during spacewalks?
+      (acronym)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47420595961856
+    m_Localized: '
+
+      What is the diameter of Earth? (km)'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47652482252800
+    m_Localized: '
+
+      What is the name of the newest Mars rover?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47935870402560
+    m_Localized: "\nWhat element is the Sun mostly made of besides hydrogen? \n(chemical
+      symbol)"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48216842633216
+    m_Localized: '
+
+      What is the name of the famous space dog?'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48630107406336
+    m_Localized: '
+
+      How many sunrises and sunsets do astronauts see each day
+      in space?'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

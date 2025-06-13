@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Questions Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Questions
+  m_TableCollectionNameGuidString: c5470e116f198d644b631fd96db8bd26
+  m_Entries:
+  - m_Id: 46698269704192
+    m_Key: planets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47114629873664
+    m_Key: emu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12948275200
+    m_Key: neil
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47420595961856
+    m_Key: diameter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47652482252800
+    m_Key: rover
+    m_Metadata:
+      m_Items: []
+  - m_Id: 47935870402560
+    m_Key: he
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48216842633216
+    m_Key: dog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48630107406336
+    m_Key: sunrise
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1694542454328918028
+  references:
+    version: 2
+    RefIds:
+    - rid: 1694542454328918028
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1747585686665

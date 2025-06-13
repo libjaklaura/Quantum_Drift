@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Slovak (sk)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Slovak (sk)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: dc04896274c5644479af1abed4a4fb22
+  m_SerializeEntries:
+  - m_GUID: 12b6c67839a5f344993da60c0b8410b4
+    m_Address: Intro_Menu_sk
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-sk
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b313640fb92e854eb8a1c7c887502bb
+    m_Address: Questions_sk
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-sk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 498eff12571bc384ca4e83aeca8c4a5f
+    m_Address: Descriptions_sk
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-sk
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 822dbf7281df3ce4bba7bbf722c79015
+    m_Address: Order_sk
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-sk
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: dbdcbee92ca932c45bcd1644de186fee, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0bb6d4ac22fc26f40b36ed405e657b2c, type: 2}
+    - {fileID: 11400000, guid: e6965302c3e4be445b785f39777752b4, type: 2}

@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Intro_Menu_sk
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: sk
+  m_SharedData: {fileID: 11400000, guid: 522174fc40f37f048a82830d92a021d4, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1039332212736
+    m_Localized: "Pokra\u010Dujte stla\u010Den\xEDm \u013Eubovo\u013En\xE9ho tla\u010Didla"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 835454383882240
+    m_Localized: "Vitaj vo vesm\xEDre, dobrodruh!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 836339373637632
+    m_Localized: "Objavuj skryt\xE9 \xFAlohy, spoznaj z\xE1klady vesm\xEDru, ale
+      hlavne sa dobre zabav."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4740712302575616
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4740860038545408
+    m_Localized: "Nov\xE1 hra"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4740972768854016
+    m_Localized: Assety
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4741028288856064
+    m_Localized: Nastavenia
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4741270002401280
+    m_Localized: "Ovl\xE1danie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4741319621017600
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4743496624177152
+    m_Localized: "Pokra\u010Dova\u0165"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4753561242501120
+    m_Localized: "R\xFDchlos\u0165 pohybu"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4753733817139200
+    m_Localized: "R\xFDchlos\u0165 ot\xE1\u010Dania"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4753783096016896
+    m_Localized: Jazyk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4753825945026560
+    m_Localized: "Ruka s l\xFA\u010Dom"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4753898003169280
+    m_Localized: "\u013Dav\xE1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4753919264096256
+    m_Localized: "Prav\xE1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4753939405144064
+    m_Localized: "Angli\u010Dtina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4753971814531072
+    m_Localized: "Sloven\u010Dina"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4755366496108544
+    m_Localized: "Ovl\xE1danie UI"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4755505017192448
+    m_Localized: Pohyb
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4755829098479616
+    m_Localized: "Ot\xE1\u010Danie"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4755914322542592
+    m_Localized: "Chyti\u0165/\nOtvori\u0165 Info"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6028748873203712
+    m_Localized: "Pou\u017Ei\u0165 predmet"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7015080772698112
+    m_Localized: "Re\u0161tart"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7015644625567744
+    m_Localized: "Ulo\u017Ei\u0165"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7015709205266432
+    m_Localized: "Sp\xE4\u0165"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7016944671064064
+    m_Localized: Gratulujem!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7017181213032448
+    m_Localized: "Misia splnen\xE1, vesm\xEDrny kadet!\nSplnil si v\u0161etky \xFAlohy
+      a dok\xE1zal si, \u017Ee si pripraven\xFD objavova\u0165 hviezdy \u2014 galaxia
+      je na teba hrd\xE1!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

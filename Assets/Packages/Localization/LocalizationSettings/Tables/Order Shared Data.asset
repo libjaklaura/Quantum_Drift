@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Order Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Order
+  m_TableCollectionNameGuidString: 0447138d43703b9468b563241f0441ee
+  m_Entries:
+  - m_Id: 1273756057600
+    m_Key: 1man
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1527641473024
+    m_Key: moonl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1706876665856
+    m_Key: 1station
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1862657310720
+    m_Key: marsl
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3847209025536
+    m_Key: order
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9836314427392
+    m_Key: mercury
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9960272887808
+    m_Key: earth
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10034109415424
+    m_Key: venus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10102732423168
+    m_Key: neptune
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10537186820096
+    m_Key: uranus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11200490831872
+    m_Key: order_size
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 1694542454328918018
+  references:
+    version: 2
+    RefIds:
+    - rid: 1694542454328918018
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1747582847795

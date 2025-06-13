@@ -1,0 +1,370 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Descriptions_sk
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: sk
+  m_SharedData: {fileID: 11400000, guid: e3b1d31b6db712b489a0da81d70d69d6, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7304649310208
+    m_Localized: Mesiac
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7344902045696
+    m_Localized: Slnko
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17392848011264
+    m_Localized: Skafandre
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17731823271936
+    m_Localized: " Sk\xFAmanie DNA vo vesm\xEDre"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17929882501120
+    m_Localized: "Vedeli ste, \u017Ee vesm\xEDr nie je len pln\xFD hviezd a plan\xE9t
+      \u2014 je to aj super miesto na robenie vedy? Ke\u010F astronauti letia na
+      dlh\xE9 misie, \u010Del\xED ich telo vesm\xEDrnemu \u017Eiareniu, ktor\xE9
+      m\xF4\u017Ee po\u0161kodi\u0165 ich DNA \u2014 \u0161peci\xE1lny k\xF3d ukryt\xFD
+      v ka\u017Edom \u017Eivom tvore!\n\nAby vedci zistili viac, na Medzin\xE1rodnej
+      vesm\xEDrnej stanici (ISS) u\u017E urobili \xFA\u017Easn\xE9 veci:\n\u2013
+      \u010C\xEDtali DNA priamo vo vesm\xEDre (vol\xE1 sa to sekvenovanie).\n\u2013
+      Na\u0161li malink\xE9 vesm\xEDrne mikr\xF3by (vesm\xEDrne bacily!).\n\u2013
+      Dokonca upravovali g\xE9ny pomocou \u0161peci\xE1lneho n\xE1stroja menom CRISPR
+      \u2014 je to ako da\u0165 DNA mal\xFD vesm\xEDrny \xFA\u010Des!\n\nProgram
+      s n\xE1zvom Genes in Space umo\u017E\u0148uje astronautom robi\u0165 z\xE1bavn\xE9
+      experimenty a sledova\u0165, ako sa DNA opravuje a ako vesm\xEDr vpl\xFDva
+      na imunitn\xFD syst\xE9m (obrann\xFD t\xEDm n\xE1\u0161ho tela).\n\nPre\u010Do
+      je to d\xF4le\u017Eit\xE9? Ke\u010F pochop\xEDme, \u010Do sa deje s DNA vo
+      vesm\xEDre, m\xF4\u017Eeme lep\u0161ie chr\xE1ni\u0165 astronautov po\u010Das
+      dlh\xFDch ciest \u2014 mo\u017Eno a\u017E na Mars \u2014 a z\xE1rove\u0148
+      sa dozvieme viac o tom, ako na\u0161e telo funguje, starne a zost\xE1va siln\xE9."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19199372492800
+    m_Localized: "Zdravotn\xE1 starostlivos\u0165 vo vesm\xEDre"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20346900512768
+    m_Localized: "NASA zabezpe\u010Duje zdravie astronautov na Medzin\xE1rodnej vesm\xEDrnej
+      stanici (ISS) prostredn\xEDctvom komplexnej fyzickej aj psychickej starostlivosti.
+      Astronauti zvy\u010Dajne zost\xE1vaj\xFA na palube pribli\u017Ene \u0161es\u0165
+      mesiacov a lek\xE1rsky t\xEDm NASA, vr\xE1tane letov\xFDch chirurgov, psychol\xF3gov
+      a odborn\xEDkov na v\xFD\u017Eivu, po\u010Das celej misie sleduje ich zdravotn\xFD
+      stav.\n\nAstronauti denne cvi\u010Dia, aby zabr\xE1nili oslabovaniu svalov
+      a kost\xED v prostred\xED mikrogravit\xE1cie. NASA sleduje aj ich stravovanie
+      pomocou tabletov\xE9ho syst\xE9mu a zabezpe\u010Duje jedlo, ktor\xE9 je v\xFD\u017Eivn\xE9
+      aj chutn\xE9. Psychick\xE1 pohoda sa podporuje \u0161peci\xE1lnym tr\xE9ningom,
+      kontaktom s rodinou a pr\xEDstupom k psychol\xF3gom.\n\nV pr\xEDpade lek\xE1rskej
+      n\xFAdze s\xFA astronauti vy\u0161kolen\xED na zvl\xE1dnutie z\xE1kladn\xFDch
+      zdravotn\xFDch situ\xE1ci\xED a maj\xFA k dispoz\xEDcii lek\xE1rske vybavenie
+      aj podporu zo Zeme."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21963607572480
+    m_Localized: Rakety
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22235276836864
+    m_Localized: "Slovo \u201Eraketa\u201C m\xF4\u017Ee ozna\u010Dova\u0165 motor
+      aj vozidlo poh\xE1\u0148an\xE9 tak\xFDmto motorom. Rakety vytv\xE1raj\xFA \u0165ah
+      t\xFDm, \u017Ee vyp\xFA\u0161\u0165aj\xFA hor\xFAce plyny, a na rozdiel od
+      pr\xFAdov\xFDch motorov si nes\xFA vlastn\xFD kysl\xEDk, tak\u017Ee m\xF4\u017Eu
+      fungova\u0165 aj vo vesm\xEDre. Ich \u010Dinnos\u0165 je zalo\u017Een\xE1 na
+      tre\u0165om Newtonovom z\xE1kone pohybu \u2013 ka\u017Ed\xE1 akcia m\xE1 rovnak\xFA
+      a opa\u010Dn\xFA reakciu.\n\nHist\xF3ria rakiet siaha a\u017E do 13. storo\u010Dia
+      v \u010C\xEDne, kde sa pou\u017E\xEDvali rakety na tuh\xE9 palivo vo vojenstve
+      a oh\u0148ostrojoch. Nesk\xF4r boli vyvinut\xE9 rakety na kvapaln\xE9 palivo.
+      Odvtedy sa rakety pou\u017E\xEDvaj\xFA na prieskum vesm\xEDru, napr\xEDklad
+      na vyn\xE1\u0161anie prv\xFDch satelitov a na misie s \u013Eudskou pos\xE1dkou
+      na Mesiac.\n\nNASA pou\u017E\xEDvala r\xF4zne druhy rakiet \u2014 od prv\xFDch
+      vojensk\xFDch n\xE1vrhov a\u017E po v\xFDkonn\xFD Saturn V a syst\xE9my raketopl\xE1nov.
+      Dnes NASA pokra\u010Duje vo v\xFDvoji pokro\u010Dil\xFDch nosn\xFDch rakiet,
+      ktor\xE9 podporia bud\xFAce misie, vr\xE1tane mo\u017En\xE9ho letu \u013Eudskej
+      pos\xE1dky na Mars."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7387738472448
+    m_Localized: "Slnko je obrovsk\xE1, \u017Eiariaca gu\u013Ea hor\xFAceho plynu
+      a je to najbli\u017E\u0161ia hviezda k Zemi. Mo\u017Eno sa na oblohe zd\xE1
+      mal\xE9, ale v skuto\u010Dnosti je obrovsk\xE9 \u2014 asi 100-kr\xE1t \u0161ir\u0161ie
+      ne\u017E Zem! Je super d\xF4le\u017Eit\xE9, preto\u017Ee n\xE1m d\xE1va svetlo,
+      teplo a energiu \u2014 bez neho by na Zemi \u017Eivot neexistoval.Aj ke\u010F
+      vyzer\xE1 ako oby\u010Dajn\xE1 hviezda, pre n\xE1s je Slnko v\xFDnimo\u010Dn\xE9.
+      Dr\u017E\xED pohromade cel\xFA na\u0161u slne\u010Dn\xFA s\xFAstavu svojou
+      silnou gravit\xE1ciou a udr\u017Eiava plan\xE9ty ako Zem, Mars \u010Di Jupiter
+      na ich obe\u017En\xFDch dr\xE1hach.\n\nSlnko je tvoren\xE9 najm\xE4 dvoma plynmi:
+      pribli\u017Ene 74 % vod\xEDk (H) a 24 % h\xE9lium (He).\n\nSlnko prech\xE1dza
+      r\xF4znymi f\xE1zami svojej \u017Eivotnej cesty. Moment\xE1lne je \u017Elt\xFD
+      trpasl\xEDk a m\xE1 asi 4,5 miliardy rokov. O \u010Fal\u0161\xEDch 5 mili\xE1rd
+      rokov sa zmen\xED na \u010Derven\xE9ho obra a potom sa zmen\u0161\xED na bieleho
+      trpasl\xEDka.\n\nSlnko je ve\u013Emi hor\xFAce. Jeho jadro je najhor\xFAcej\u0161ia
+      \u010Das\u0165 \u2014 m\xE1 teplotu okolo 15 mili\xF3nov \xB0C! Tak\u017Ee
+      aj ke\u010F sa m\xF4\u017Ee zda\u0165 ako len jasn\xE9 svetlo na oblohe, je
+      to mocn\xE1 hviezda, v\u010Faka ktorej je na Zemi \u017Eivot mo\u017En\xFD.
+      Len si pam\xE4taj \u2014 nikdy sa na\u0148 nepozeraj priamo bez \u0161peci\xE1lnych
+      okuliarov!\n\nZauj\xEDmavosti!\n- Svetlu zo Slnka trv\xE1 asi 8 min\xFAt a
+      20 sek\xFAnd, k\xFDm doraz\xED na Zem.\n- Obsahuje 99 % v\u0161etkej hmoty
+      v celej slne\u010Dnej s\xFAstave!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23388068708352
+    m_Localized: "Merk\xFAr \u2013 Najmen\u0161ia a Najr\xFDchlej\u0161ia Plan\xE9ta\n\nMerk\xFAr
+      je najmen\u0161ia plan\xE9ta v na\u0161ej slne\u010Dnej s\xFAstave a z\xE1rove\u0148
+      najbli\u017E\u0161ie k Slnku \u2014 je len trochu v\xE4\u010D\u0161\xED ako
+      Mesiac. Zo povrchu Merk\xFAru vyzer\xE1 Slnko viac ako trikr\xE1t v\xE4\u010D\u0161ie
+      a svieti a\u017E sedemkr\xE1t jasnej\u0161ie ne\u017E zo Zeme.\n\nTeploty s\xFA
+      tu extr\xE9mne: po\u010Das d\u0148a m\xF4\u017Eu vyst\xFApi\u0165 a\u017E na
+      430 \xB0C (800 \xB0F), no ke\u010F\u017Ee Merk\xFAr nem\xE1 atmosf\xE9ru, ktor\xE1
+      by udr\u017Eiavala teplo, v noci teploty klesaj\xFA a\u017E na -180 \xB0C (-290
+      \xB0F).\n\nAj ke\u010F je Merk\xFAr najbli\u017E\u0161ie k Slnku, nie je najteplej\u0161ou
+      plan\xE9tou \u2014 t\xFAto poz\xEDciu dr\u017E\xED Venu\u0161a v\u010Faka svojej
+      hustej atmosf\xE9re. Merk\xFAr v\u0161ak dr\u017E\xED rekord v najr\xFDchlej\u0161ej
+      obe\u017Enej dr\xE1he, ke\u010F obehne Slnko za 88 pozemsk\xFDch dn\xED.\n\nPri
+      tak\xFDchto divok\xFDch teplot\xE1ch a silnom slne\u010Dnom \u017Eiaren\xED
+      by na Merk\xFAre \u017Eivot, ak\xFD pozn\xE1me, nemohol pre\u017Ei\u0165."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23736363712512
+    m_Localized: "Venu\u0161a \u2013 Ohniv\xE1 Dvoji\u010Dka Zeme\n\nVenu\u0161a
+      je druh\xE1 plan\xE9ta od Slnka a n\xE1\u0161 najbli\u017E\u0161\xED sused.
+      Vol\xE1me ju Zemina dvoji\u010Dka, ale v skuto\u010Dnosti je najteplej\u0161ou
+      plan\xE9tou v slne\u010Dnej s\xFAstave.\n\nVenu\u0161a je tret\xEDm najsvetlej\u0161\xEDm
+      objektom na oblohe po Slnku a Mesiaci. Na rozdiel od v\xE4\u010D\u0161iny plan\xE9t
+      sa ot\xE1\u010Da pomaly opa\u010Dn\xFDm smerom, v\u010Faka \u010Domu je jej
+      de\u0148 dlh\u0161\xED ne\u017E jej rok.\n\nJej hust\xE1 atmosf\xE9ra zachyt\xE1va
+      teplo v silnom sklen\xEDkovom efekte, a teploty na povrchu s\xFA tak vysok\xE9,
+      \u017Ee by roztavili olovo. Pod hust\xFDmi oblakmi sa nach\xE1dzaj\xFA sopky
+      a pokr\xFAten\xE9 hory.\n\nPribli\u017Ene 50 kilometrov nad povrchom klesaj\xFA
+      teploty do rozmedzia, ktor\xE9 by mohlo podporova\u0165 niektor\xE9 odoln\xE9
+      mikroorganizmy zo Zeme, a tlak tam je podobn\xFD ako na zemskom povrchu.\n\nVenu\u0161a
+      nem\xE1 \u017Eiadne mesiace, ale m\xE1 mal\xFD \u201Ekv\xE1zi-satelit\u201C
+      menom Zoozve, ktor\xFD okolo nej obieha."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23889439031296
+    m_Localized: "Zem je tretia plan\xE9ta od Slnka a piata najv\xE4\u010D\u0161ia
+      v slne\u010Dnej s\xFAstave. Je jedine\u010Dn\xE1 t\xFDm, \u017Ee na jej povrchu
+      je tekut\xE1 voda, ktor\xE1 podporuje \u017Eivot. N\xE1zov Zem poch\xE1dza
+      zo staroanglick\xFDch a germ\xE1nskych kore\u0148ov a znamen\xE1 \u201Ezem\u201C
+      alebo \u201Ep\xF4du\u201C. Atmosf\xE9ra Zeme, ktor\xE1 je zlo\u017Een\xE1 preva\u017Ene
+      z dus\xEDka a kysl\xEDka, n\xE1s chr\xE1ni pred \u0161kodliv\xFDm \u017Eiaren\xEDm
+      a meteoroidmi.\n\nZem m\xE1 rovn\xEDkov\xFD priemer pribli\u017Ene 12 760 kilometrov,
+      \u010Do z nej rob\xED najv\xE4\u010D\u0161iu plan\xE9tu medzi zemsk\xFDmi (terestri\xE1lnymi)
+      plan\xE9tami. Zem obehne okolo Slnka za pribli\u017Ene 365,25 d\u0148a, \u010Do
+      sp\xF4sobuje ro\u010Dn\xE9 obdobia v\u010Faka n\xE1klonu osi plan\xE9ty. Vzdialenos\u0165
+      Zeme od Slnka je pribli\u017Ene 150 mili\xF3nov kilometrov a Zem m\xE1 jeden
+      Mesiac vzdialen\xFD asi 384 400 kilometrov. Zem nem\xE1 \u017Eiadne prstence
+      a jej povrch je tvarovan\xFD pohybmi tektonick\xFDch dosiek.\n\nPovrch Zeme
+      zah\u0155\u0148a r\xF4zne tvary ter\xE9nu ako hory, \xFAdolia a oce\xE1ny,
+      pri\u010Dom pribli\u017Ene 70 % povrchu pokr\xFDva voda. Plan\xE9ta sa sklad\xE1
+      zo \u0161tyroch vrstiev: vn\xFAtorn\xE9 jadro, vonkaj\u0161ie jadro, pl\xE1\u0161\u0165
+      a k\xF4ra."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24307850215424
+    m_Localized: "Mesiac je jedin\xFD prirodzen\xFD satelit Zeme. Je to such\xFD,
+      pra\u0161n\xFD svet bez vzduchu, po\u010Dasia a s mno\u017Estvom kr\xE1terov
+      po starovek\xFDch vesm\xEDrnych skal\xE1ch! M\xE1 pribli\u017Ene \xBC ve\u013Ekosti
+      Zeme, ale st\xE1le ovplyv\u0148uje \u017Eivot na Zemi \u2014 jeho gravit\xE1cia
+      sp\xF4sobuje pr\xEDliv a odliv oce\xE1nov. Svoje vlastn\xE9 svetlo nevyd\xE1va
+      \u2014 svieti, preto\u017Ee odr\xE1\u017Ea slne\u010Dn\xE9 svetlo.\n\nAstronauti
+      prv\xFDkr\xE1t kr\xE1\u010Dali po Mesiaci v roku 1969 po\u010Das misie NASA
+      Apollo 11.\n\nMesiac po\u010Das mesiaca men\xED svoj vzh\u013Ead. Tieto meniacie
+      sa tvary sa naz\xFDvaj\xFA lun\xE1rne f\xE1zy a vznikaj\xFA, ke\u010F Mesiac
+      obieha okolo Zeme. Vid\xEDme r\xF4zne \u010Dasti jeho osvetlenej strany, od
+      novej po \xFApln\xFA a sp\xE4\u0165.\n\nNiekedy sa Mesiac, Zem a Slnko zarovnaj\xFA
+      tak, \u017Ee vznikne zvl\xE1\u0161tny jav naz\xFDvan\xFD zatmenie. Na Zemi
+      rozli\u0161ujeme dva typy zatmen\xED: lun\xE1rne a sol\xE1rne. Zatmenie nastane,
+      ke\u010F sa Zem, Mesiac a Slnko zarovnaj\xFA tak, \u017Ee jeden z t\xFDchto
+      telies vrh\xE1 tie\u0148 na druh\xE9. Po\u010Das sol\xE1rneho zatmenia Mesiac
+      zablokuje slne\u010Dn\xE9 svetlo dopadaj\xFAce na Zem. Pri lun\xE1rnom zatmen\xED
+      Zem zatieni Mesiac svoj\xEDm tie\u0148om."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24435508051968
+    m_Localized: "Mars \u2013 \u010Cerven\xE1 Plan\xE9ta\n\nMars je \u0161tvrt\xE1
+      plan\xE9ta od Slnka \u2014 studen\xFD, such\xFD svet s tenkou atmosf\xE9rou.
+      M\xE1 ro\u010Dn\xE9 obdobia, \u013Eadov\xE9 \u010Diapky, ka\u0148ony a vyhynut\xE9
+      sopky.\n\nNASA poslalo na jeho povrch viacero roverov, ktor\xE9 objavili d\xF4kazy,
+      \u017Ee Mars bol kedysi teplej\u0161\xED, vlhkej\u0161\xED a mal hustej\u0161iu
+      atmosf\xE9ru.\n\nJeho \u010Derven\xE1 farba poch\xE1dza z \u017Eeleza v p\xF4de,
+      ktor\xE9 \u010Dasom zhrdzavelo.\n\nMars m\xE1 dva mal\xE9 mesiace, Phobos a
+      Deimos \u2014 pravdepodobne zachyten\xE9 asteroidy, ktor\xE9 s\xFA sk\xF4r
+      tvarom podobn\xE9 zemiakom ne\u017E gu\u013E\xE1m.\n\nDe\u0148 na Marse trv\xE1
+      len o nie\u010Do viac ne\u017E 24 hod\xEDn \u2014 takmer ako de\u0148 na Zemi!\n\nNajvy\u0161\u0161ia
+      sopka v slne\u010Dnej s\xFAstave, Olympus Mons, je na Marse. Je takmer trikr\xE1t
+      vy\u0161\u0161ia ne\u017E Mount Everest!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24892112568320
+    m_Localized: "Jupiter \u2013 Obor slne\u010Dnej s\xFAstavy!\n\nJupiter je najv\xE4\u010D\u0161ia
+      plan\xE9ta \u2014 vo vn\xFAtri by sa zmestilo viac ako 1000 Ziem! Je tie\u017E
+      najstar\u0161\xED, vznikol pred viac ne\u017E 4,6 miliardami rokov, a z\xE1rove\u0148
+      sa najr\xFDchlej\u0161ie ot\xE1\u010Da, jeho de\u0148 trv\xE1 len 9,9 hodiny.\n\nTie
+      v\xEDriace pruhy a p\xE1sy? S\xFA to divok\xE9, mraziv\xE9 oblaky amoniaku
+      a vody, ktor\xE9 sa pohybuj\xFA vo v\xEDroch siln\xFDch vetrov v atmosf\xE9re
+      z vod\xEDka a h\xE9lia. Tmav\xE9 pruhy s\xFA p\xE1sy, svetl\xE9 s\xFA z\xF3ny
+      a pohybuj\xFA sa opa\u010Dn\xFDm smerom!\n\nA \u010Do to ve\u013Ek\xE9 \u010Derven\xE9
+      oko? To je Ve\u013Ek\xE1 \u010Derven\xE1 \u0161kvrna \u2014 obrovsk\xE1 b\xFArka
+      v\xE4\u010D\u0161ia ne\u017E Zem, ktor\xE1 zu\u017E\xED stovky rokov.\n\n\u010Co
+      sa t\xFDka \u017Eivota? Jupiter m\xE1 extr\xE9mne po\u010Dasie a obrovsk\xFD
+      tlak, tak\u017Ee \u017Eivot, ak\xFD pozn\xE1me, tam nem\xF4\u017Ee by\u0165.\n\nA
+      mesiace? Jupiter m\xE1 ich 95 \u2014 viac ne\u017E ktor\xE1ko\u013Evek in\xE1
+      plan\xE9ta, ktor\xFA pozn\xE1me!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25051114438656
+    m_Localized: "Saturn \u2013 P\xE1n prstencov\n\nSaturn je \u0161iesta plan\xE9ta
+      od Slnka a druh\xE1 najv\xE4\u010D\u0161ia v slne\u010Dnej s\xFAstave. Je to
+      obrovsk\xE1 gu\u013Ea z vod\xEDka a h\xE9lia, zn\xE1ma svoj\xEDm ohromuj\xFAcim
+      syst\xE9mom prstencov \u2014 najkraj\u0161\xEDm zo v\u0161etk\xFDch plan\xE9t.\n\nTieto
+      prstence? S\xFA zlo\u017Een\xE9 z mili\xE1rd \u013Eadov\xFDch a skaln\xFDch
+      k\xFAskov, od prachov\xFDch z\u0155n a\u017E po ve\u013Ek\xE9 kusy ve\u013Ekosti
+      domov \u2014 niektor\xE9 dokonca ako hory. Pravdepodobne s\xFA pozostatkom
+      rozbit\xFDch mesiacov, asteroidov alebo kom\xE9t, ktor\xE9 Saturnova siln\xE1
+      gravit\xE1cia roztrhla. Ka\u017Ed\xFD prstenec obieha svojou vlastnou r\xFDchlos\u0165ou,
+      \u010D\xEDm vznik\xE1 zlo\u017Eit\xFD a v\xEDriaci syst\xE9m.\n\nSaturn m\xE1
+      tie\u017E ve\u013Ek\xE9 mno\u017Estvo mesiacov \u2014 k roku 2023 bolo potvrden\xFDch
+      146, pri\u010Dom \u010Fal\u0161ie e\u0161te \u010Dakaj\xFA na ofici\xE1lne
+      men\xE1."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25169897127936
+    m_Localized: "Nept\xFAn \u2013 Vetern\xFD modr\xFD obor\n\nNept\xFAn je \xF4sma
+      a najvzdialenej\u0161ia plan\xE9ta od Slnka \u2014 temn\xFD, \u013Eadov\xFD
+      svet viac ako 30-kr\xE1t vzdialenej\u0161\xED od Slnka ne\u017E Zem. Je studen\xFD,
+      vzdialen\xFD a bi\u010Dovan\xFD nadzvukov\xFDmi vetrami, v\u010Faka \u010Domu
+      je jedn\xFDm z najextr\xE9mnej\u0161\xEDch miest v slne\u010Dnej s\xFAstave.\n\nObjaven\xFD
+      bol v roku 1846 a je jedinou plan\xE9tou, ktor\xFA nie je mo\u017En\xE9 vidie\u0165
+      vo\u013En\xFDm okom. V roku 2011 dokon\u010Dil svoju prv\xFA \xFApln\xFA obe\u017En\xFA
+      dr\xE1hu od objavenia \u2014 jeden nept\xFAnsky rok trv\xE1 a\u017E 165 pozemsk\xFDch
+      rokov!\n\nSlne\u010Dn\xE9 svetlo na Nept\xFAne je asi 900-kr\xE1t slab\u0161ie
+      ako na Zemi \u2014 aj na poludnie tam vyzer\xE1 ako za s\xFAmraku.\n\nDe\u0148
+      na Nept\xFAne trv\xE1 len 16 hod\xEDn.\n\nObklopuj\xFA ho p\xE4\u0165 hlavn\xFDch
+      prstencov a \u0161tyri jasn\xE9 obl\xFAky, ktor\xE9 s\xFA pravdepodobne mlad\xE9
+      a kr\xE1tkodob\xE9. Hlavn\xE9 prstence sa volaj\xFA Galle, Leverrier, Lassell,
+      Arago a Adams."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25484184715264
+    m_Localized: "Uran \u2013 Naklonen\xFD \u013Eadov\xFD obor\n\nUran je siedma
+      plan\xE9ta od Slnka a m\xE1 tret\xED najv\xE4\u010D\u0161\xED priemer v slne\u010Dnej
+      s\xFAstave. Je to studen\xFD, vetern\xFD \u013Eadov\xFD obor so zvl\xE1\u0161tnym
+      oto\u010Den\xEDm \u2014 ot\xE1\u010Da sa takmer na bok, naklonen\xFD takmer
+      o 90 stup\u0148ov, tak\u017Ee obieha okolo Slnka ako valec.\n\nObklopuj\xFA
+      ho 13 slab\xFDch prstencov a 28 zn\xE1mych mesiacov, ktor\xE9 sa pohybuj\xFA
+      v jeho chladnej modrej atmosf\xE9re.\n\nUran bol prvou plan\xE9tou objavenou
+      pomocou \u010Falekoh\u013Eadu, v roku 1781 ho objavil William Herschel \u2014
+      spo\u010Diatku si myslel, \u017Ee ide o kom\xE9tu alebo hviezdu. Potreboval
+      v\u0161ak e\u0161te dva roky, k\xFDm bolo jasn\xE9, \u017Ee ide o plan\xE9tu.\n\nDe\u0148
+      na Urane trv\xE1 pribli\u017Ene 17 hod\xEDn a cel\xFD rok tam trv\xE1 84 pozemsk\xFDch
+      rokov."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25828562239488
+    m_Localized: "Laika bola sovietska vesm\xEDrna fenka, ktor\xE1 bola jedn\xFDm
+      z prv\xFDch zvierat vo vesm\xEDre a prvou, ktor\xE1 obletela Zem. Bola to t\xFAlav\xE1
+      psia z ul\xEDc Moskvy a letela na palube kozmickej lode Sputnik 2, ktor\xE1
+      bola vypusten\xE1 na n\xEDzku obe\u017En\xFA dr\xE1hu 3. novembra 1957. Ke\u010F\u017Ee
+      technol\xF3gia n\xE1vratu sp\xE4\u0165 do atmosf\xE9ry e\u0161te nebola vyvinut\xE1,
+      Laikina pre\u017Eitie sa nikdy neo\u010Dak\xE1valo. Sovietski vedci si vybrali
+      t\xFAlav\xE9 psy z Moskvy, preto\u017Ee predpokladali, \u017Ee tak\xE9to zvierat\xE1
+      u\u017E boli zvyknut\xE9 zn\xE1\u0161a\u0165 extr\xE9mny chlad a hlad."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26116966776832
+    m_Localized: "Pred d\xE1vnym \u010Dasom, 20. j\xFAla 1969, sa stalo nie\u010Do
+      \xFA\u017Easn\xE9 \u2014 \u013Eudia prv\xFDkr\xE1t vkro\u010Dili na Mesiac!
+      Misia sa volala Apollo 11 a bol to obrovsk\xFD krok pre cel\xFD svet. Astronauti
+      presk\xFAmali Mesiac, nazbierali kamene a p\xF4du, nain\u0161talovali experimenty,
+      fotili a nat\xE1\u010Dali vide\xE1, zasadili americk\xFA vlajku a zanechali
+      plaketu s n\xE1pisom: \u201EPri\u0161li sme v mieri pre cel\xE9 \u013Eudstvo.\u201C
+      Dokonca zanechali \u0161peci\xE1lne zrkadlo, ktor\xE9 pom\xE1ha vedcom mera\u0165
+      vzdialenos\u0165 k Mesiacu!\n\n\u010Clenovia pos\xE1dky boli:\nNeil Armstrong
+      \u2013 prv\xFD \u010Dlovek, ktor\xFD st\xFApil na Mesiac!\nEdwin \u201EBuzz\u201C
+      Aldrin\nMichael Collins\n\nApollo 11 bola posledn\xE1 misia, ktor\xE1 pou\u017Eila
+      tzv. \u201Efree-return\u201C dr\xE1hu. To znamenalo, \u017Ee kozmick\xE1 lo\u010F
+      mohla obletie\u0165 Mesiac a v pr\xEDpade n\xFAdze sa vr\xE1ti\u0165 na Zem
+      bez pou\u017Eitia motorov \u2014 m\xFAdry bezpe\u010Dnostn\xFD pl\xE1n! Po
+      8 d\u0148och vo vesm\xEDre prist\xE1li pos\xE1dka do oce\xE1nu a bola vyzdvihnut\xE1
+      lo\u010Fou. Oslavovali ich ako hrdinov!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26312714944512
+    m_Localized: Mars roveri
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26555992965120
+    m_Localized: "Viac ne\u017E 60 rokov NASA sk\xFAma jednu ve\u013Ek\xFA z\xE1hadu:
+      mohol by\u0165 Mars niekedy domovom \u017Eivota? Aby to zistila, NASA vyslala
+      t\xEDm \xFA\u017Easn\xFDch robotick\xFDch prieskumn\xEDkov \u2014 ako s\xFA
+      orbitery, prist\xE1vacie moduly a roveri \u2014 aby Mars presk\xFAmali zbl\xEDzka.
+      Tieto roboty s\xFA navrhnut\xE9 na vykon\xE1vanie zauj\xEDmav\xFDch vedeck\xFDch
+      \xFAloh a maj\xFA \u010Dasti, ktor\xE9 s\xFA akoby na\u0161e \u2014 \u201Ehlavy\u201C
+      na videnie, \u201Eruky\u201C na dosahovanie a \u201Enohy\u201C na pohyb!\n\nJedn\xFDm
+      z najnov\u0161\xEDch a najzauj\xEDmavej\u0161\xEDch robotov je rover Perseverance.
+      Tento rover je ako vesm\xEDrny detekt\xEDv, ktor\xFD h\u013Ead\xE1 stopy, \u017Ee
+      na Marse mohli d\xE1vno \u017Ei\u0165 drobn\xE9 formy \u017Eivota \u2013 mikroorganizmy.
+      Tie\u017E zbiera vzorky horn\xEDn a p\xF4dy, ktor\xE9 by mohli by\u0165 jedn\xE9ho
+      d\u0148a privezen\xE9 na Zem, aby ich vedci mohli \u0161tudova\u0165."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26906498367488
+    m_Localized: "Jedlo vo vesm\xEDre"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27168738836480
+    m_Localized: "Sp\xE1nok vo vesm\xEDre"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434523492352
+    m_Localized: "Astronauti id\xFA spa\u0165 vo svojich \u201Esp\xE1nkov\xFDch staniciach\u201C,
+      osobn\xFDch sp\xE1nkov\xFDch priestoroch ve\u013Ekosti telef\xF3nnej b\xFAdky,
+      ktor\xE9 maj\xFA:\n\nspac\xE1k\nvank\xFA\u0161\nlampu\nvzduchov\xFA ventil\xE1ciu\nosobn\xFD
+      laptop\nmiesto na osobn\xE9 veci\n\n\u010Clenovia pos\xE1dky, ktor\xED chc\xFA
+      spa\u0165 mimo sp\xE1nkov\xFDch priestorov, si m\xF4\u017Eu pripevni\u0165
+      spac\xE1k na podlahu, strop alebo stenu. V bezv\xE1hovom prostred\xED vesm\xEDru
+      by sa okolo hlavy astronautov mohla vytvori\u0165 bublina oxidu uhli\u010Dit\xE9ho
+      (CO2), ktor\xFD vydychuj\xFA. Preto musia spa\u0165 bl\xEDzko vzduchovej ventil\xE1cie.\n\nPo\u010Das
+      obehu okolo Zeme astronauti za 24 hod\xEDn za\u017Eij\xFA 16 v\xFDchodov a
+      z\xE1padov slnka. Vidie\u0165 v\xFDchod slnka ka\u017Ed\xFDch 90 min\xFAt m\xF4\u017Ee
+      by\u0165 \xFA\u017Easn\xFD z\xE1\u017Eitok, ale tie\u017E s\u0165a\u017Euje
+      udr\u017Ea\u0165 pravideln\xFD sp\xE1nkov\xFD re\u017Eim. V\xE4\u010D\u0161inou
+      pou\u017E\xEDvaj\xFA \u0161tuple do u\u0161\xED a masku na o\u010Di, aby zablokovali
+      hluk a svetlo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27698831753216
+    m_Localized: "Voyager 1 a Voyager 2 s\xFA dvaja odv\xE1\u017Eni robotick\xED
+      prieskumn\xEDci, ktor\xFDch NASA vyslala do vesm\xEDru v roku 1977. Boli postaven\xED
+      na to, aby nav\u0161t\xEDvili obrie plan\xE9ty \u2014 Jupiter, Saturn, Ur\xE1n
+      a Nept\xFAn \u2014 a nafotili \xFA\u017Easn\xE9 fotografie a sk\xFAmali ich
+      mesiace, prstence a atmosf\xE9ry.\n\nPo svojich planet\xE1rnych dobrodru\u017Estv\xE1ch
+      mali Voyagery nov\xFA misiu \u2014 sk\xFAma\u0165 priestory mimo slne\u010Dnej
+      s\xFAstavy! Teraz s\xFA v medzihviezdnom priestore, oblasti mimo ochrann\xE9ho
+      bubliny Slnka, naz\xFDvanej heliosf\xE9ra.\nAj teraz st\xE1le posielaj\xFA
+      spr\xE1vy sp\xE4\u0165 na Zem, meraj\xFA vesm\xEDrne javy ako magnetick\xE9
+      polia a kozmick\xE9 l\xFA\u010De. M\xF4\u017Eu s nami komunikova\u0165 a\u017E
+      do pribli\u017Ene roku 2030!\n\nKa\u017Ed\xFD Voyager nesie Zlat\xFA plat\u0148u
+      so zvukmi, hudbou a obr\xE1zkami zo Zeme \u2014 ako \u010Dasov\xFA kapsulu
+      pre mimozem\u0161\u0165anov!\n\nVoyagery s\xFA najvzdialenej\u0161ie \u013Eudsk\xE9
+      objekty vo vesm\xEDre. Mal\xED\u2026 ale siln\xED!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

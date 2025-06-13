@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Intro_Menu_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 522174fc40f37f048a82830d92a021d4, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1039332212736
+    m_Localized: Press any button to continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 835454383882240
+    m_Localized: Welcome to the space, adventurer!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 836339373637632
+    m_Localized: Find hidden tasks, learn about the basics of space, but most importantly
+      have fun.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4740712302575616
+    m_Localized: Main Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4740860038545408
+    m_Localized: New Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4740972768854016
+    m_Localized: Assets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4741028288856064
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4741270002401280
+    m_Localized: Controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4741319621017600
+    m_Localized: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4743496624177152
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4753561242501120
+    m_Localized: Movement speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4753733817139200
+    m_Localized: Rotation speed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4753783096016896
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4753825945026560
+    m_Localized: Raycast hand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4753898003169280
+    m_Localized: Left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4753919264096256
+    m_Localized: Right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4753939405144064
+    m_Localized: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4753971814531072
+    m_Localized: Slovak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4755366496108544
+    m_Localized: Control UI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4755505017192448
+    m_Localized: Movement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4755829098479616
+    m_Localized: Rotation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4755914322542592
+    m_Localized: 'Grab/
+
+      Open Info'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6028748873203712
+    m_Localized: Use item
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7015080772698112
+    m_Localized: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7015644625567744
+    m_Localized: Apply
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7015709205266432
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7016944671064064
+    m_Localized: Congratulations!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7017181213032448
+    m_Localized: "Mission accomplished, Space Cadet! You\u2019ve completed all your
+      tasks and proved you\u2019re ready to explore the stars \u2014 the galaxy is
+      proud of you!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

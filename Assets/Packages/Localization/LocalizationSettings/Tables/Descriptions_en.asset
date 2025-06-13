@@ -1,0 +1,351 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Descriptions_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: e3b1d31b6db712b489a0da81d70d69d6, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 7304649310208
+    m_Localized: Moon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7344902045696
+    m_Localized: Sun
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17392848011264
+    m_Localized: Spacesuits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17731823271936
+    m_Localized: Studying DNA in space
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17929882501120
+    m_Localized: "Did you know that space isn\u2019t just full of stars and planets
+      \u2014 it\u2019s also a cool place to do science? When astronauts go on long
+      missions, they face space radiation that can hurt their DNA \u2014 the special
+      code inside every living thing!\n\nTo learn more, scientists on the International
+      Space Station (ISS) have done some amazing things:\n\u2013 They\u2019ve read
+      DNA in space (that\u2019s called sequencing).\n\u2013 They\u2019ve found tiny
+      space microbes (space germs!).\n\u2013 They\u2019ve even edited genes using
+      a high-tech tool called CRISPR \u2014 like giving DNA a tiny space haircut!\n\nA
+      program called Genes in Space lets astronauts try fun experiments to see how
+      DNA repairs itself and how space affects the immune system (the body\u2019s
+      defense team).\n\nWhy does it matter? Understanding DNA in space helps us keep
+      astronauts healthy on long trips \u2014 maybe even to Mars \u2014 and teaches
+      us more about how our bodies work, age, and stay strong."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 19199372492800
+    m_Localized: Healthcare in space
+    m_Metadata:
+      m_Items: []
+  - m_Id: 20346900512768
+    m_Localized: 'NASA ensures astronaut health on the International Space Station
+      (ISS) through comprehensive physical and mental health support. Astronauts
+      typically stay aboard for about six months, and NASA''s medical team, including
+      flight surgeons, psychologists, and nutritionists, monitor their well-being
+      throughout the mission.
+
+
+      Astronauts exercise daily to counteract the
+      effects of microgravity on muscles and bones. NASA also monitors their diet
+      using a tablet-based tracking system and provides food that is both nutritious
+      and satisfying. Mental health is supported with training, communication with
+      family, and access to psychologists.
+
+
+      In case of a medical emergency,
+      astronauts are trained to handle basic medical situations and have access to
+      medical equipment and support from Earth.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21963607572480
+    m_Localized: Rockets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 22235276836864
+    m_Localized: "A rocket can refer to both an engine and a vehicle powered by such
+      an engine. Rockets generate thrust by expelling hot gases, and unlike jet engines,
+      they carry their own oxygen, allowing them to work in space. Rockets operate
+      based on Newton\u2019s third law of motion\u2014every action has an equal and
+      opposite reaction.\n\nThe history of rockets dates back to 13th-century China
+      with solid-fuel rockets used in warfare and fireworks. After that, liquid-fuel
+      rockets were developed. Rockets have since been used for space exploration,
+      including launching the first satellites and human missions to the Moon.\n\nNASA
+      has used various rockets, from early military designs to the powerful Saturn
+      V and space shuttle systems. Today, NASA continues developing advanced rockets,
+      such as heavy-lift vehicles, to support future missions, including potential
+      human exploration of Mars."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7387738472448
+    m_Localized: " The Sun is a giant, glowing ball of hot gas and it\u2019s the
+      closest star to Earth. It may look small in the sky, but it\u2019s actually
+      huge\u2014about 100 times wider than Earth! It\u2019s super important because
+      it gives us light, heat, and energy\u2014without it, life on Earth wouldn\u2019t
+      exist.  Even though it looks like an ordinary star, the Sun is special to us.
+      It holds our whole solar system together with its strong gravity, keeping planets
+      like Earth, Mars, and Jupiter in their orbits. \n\nThe Sun is made mostly of
+      two gases: about 74% Hydrogen(H) and 24% Helium(He).\r\n\nThe Sun goes through
+      different stages in its lifecycle. Right now, it\u2019s a yellow dwarf, about
+      4.5 billion years old. In another 5 billion years, it will become a red giant
+      and then shrink into a small white dwarf.\r\n\nThe Sun is super hot. Its core
+      is the hottest part\u2014around 15 million \xB0C!  So, even though the Sun
+      might seem like just a bright light in the sky, it\u2019s a powerful star that
+      makes life on Earth possible. Just remember\u2014never look at it directly
+      without special glasses! \U0001F60E \n\nFun Facts!\r\n- Its light takes about
+      8 minutes and 20 seconds to reach us.\r\n- It contains 99% of all the stuff
+      in our solar system!\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23388068708352
+    m_Localized: "Mercury \u2013 The Smallest and Fastest Planet\r\n\r\nMercury is
+      the smallest planet in our solar system and the closest to the Sun \u2014 just
+      a bit bigger than Earth\u2019s Moon. From Mercury\u2019s surface, the Sun looks
+      over three times larger and shines up to seven times brighter than on Earth.\r\n\r\nTemperatures
+      here are extreme: days can soar to 800\xB0F (430\xB0C), but without an atmosphere
+      to trap heat, nights drop to a freezing -290\xB0F (-180\xB0C).\r\n\r\nEven
+      though it\u2019s closest to the Sun, Mercury isn\u2019t the hottest planet
+      \u2014 that\u2019s Venus, thanks to its thick atmosphere. Mercury does hold
+      the record for the fastest orbit, circling the Sun every 88 Earth days.\r\n\r\nWith
+      such wild temperatures and intense solar radiation, Mercury isn\u2019t a place
+      where life as we know it could survive."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23736363712512
+    m_Localized: "Venus \u2013 Earth\u2019s Fiery Twin\r\n\r\nVenus is the 2nd planet
+      from the Sun and our closest neighbor. Known as Earth\u2019s twin, it\u2019s
+      actually the hottest planet in the solar system.\r\n\r\nVenus shines as the
+      third brightest object in the sky after the Sun and Moon. Unlike most planets,
+      it spins slowly backward, making its day longer than its year.\r\n\r\nIts thick
+      atmosphere traps heat in a powerful greenhouse effect, with surface temperatures
+      hot enough to melt lead. Beneath the dense clouds lie volcanoes and twisted
+      mountains.\r\n\r\nAbout 30 miles above the surface, temperatures drop to a
+      range that could support some hardy Earth microbes, and the pressure there
+      is similar to Earth\u2019s surface.\r\n\r\nVenus has no moons, but it does
+      have a small \u201Cquasi-satellite\u201D named Zoozve that orbits nearby."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23889439031296
+    m_Localized: 'Earth is the third planet from the Sun and the fifth largest in
+      the solar system. It''s unique for having liquid water on its surface, which
+      supports life. Earth''s name comes from Old English and Germanic roots, meaning
+      "the ground." The planet''s atmosphere, composed mostly of nitrogen and oxygen,
+      protects us from harmful radiation and meteoroids.
+
+
+      With an equatorial
+      diameter of 12,760 kilometers, Earth is the biggest of the terrestrial plantes.
+      Earth''s orbit around the Sun takes about 365,25 days, causing the seasons
+      due to the planet''s axial tilt. The planet''s distance from the Sun is roughly
+      150 million kilometers, and it has a single moon about 238,855 miles away.
+      Earth has no rings, and its surface is shaped by tectonic plate movements.
+
+
+      Earth''s
+      surface includes diverse features like mountains, valleys, and oceans, with
+      70% of it covered by water. The planet is made up of four layers: the inner
+      core, outer core, mantle, and crust.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24307850215424
+    m_Localized: "The Moon is Earth\u2019s only natural satellite. It\u2019s a dry,
+      dusty world with no air, no weather, and lots of craters from ancient space
+      rocks! It\u2019s about 1/4 the size of Earth, but it still affects life here
+      \u2014 its gravity causes ocean tides to rise and fall. It doesn\u2019t make
+      its own light \u2014 it shines because it reflects sunlight.\n\nAstronauts
+      first walked on the Moon in 1969 during NASA\u2019s Apollo 11 mission.\n\nThe
+      Moon looks different throughout the month. These changing shapes are called
+      lunar phases, and they happen as the Moon orbits Earth. We see different parts
+      of its sunlit side, from new moon to full moon and back again.\n\nSometimes,
+      the Moon lines up just right with the Earth and Sun, causing a special event
+      called an eclipse. On Earth, there are two types of eclipses: lunar and solar.
+      An eclipse occurs when Earth, Moon, and Sun align so that one world casts its
+      shadow on the other. During a solar eclipse, the Moon blocks sunlight from
+      reaching Earth. In a lunar eclipse, Earth\u2019s shadow darkens the Moon.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24435508051968
+    m_Localized: "Mars \u2013 The Red Planet\n\nMars is the 4th planet from the Sun
+      \u2014 a cold, dry world with a thin atmosphere. It has seasons, ice caps,
+      canyons, and extinct volcanoes.\n\nNASA has sent multiple rovers to explore
+      its surface, uncovering signs that Mars was once warmer, wetter, and had a
+      thicker atmosphere.\n\nIts red color comes from iron in the soil that\u2019s
+      rusted over time.\n\nMars has two tiny moons, Phobos and Deimos \u2014 likely
+      captured asteroids, shaped more like potatoes than spheres.\n\nA day on Mars
+      is just a little over 24 hours \u2014 almost like a day on Earth!\n\nThe tallest
+      volcano in the solar system, Olympus Mons, is on Mars. It's nearly three times
+      taller than Mount Everest!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24892112568320
+    m_Localized: "Jupiter \u2013 The Giant of the Solar System!\r\n\r\nJupiter is
+      the largest planet out there \u2014 over 1,000 Earths could fit inside it!
+      It\u2019s also the oldest, formed over 4.6 billion years ago, yet it spins
+      the fastest, with a day lasting just 9.9 hours.\r\n\r\nThose swirling stripes
+      and bands? They\u2019re wild, freezing clouds of ammonia and water, riding
+      fierce winds in an atmosphere of hydrogen and helium. The dark stripes are
+      belts, the light ones are zones, and they move in opposite directions!\r\n\r\nAnd
+      that giant red eye? That\u2019s the Great Red Spot \u2014 a massive storm,
+      bigger than Earth, that\u2019s been raging for centuries.\r\n\r\nAs for life?
+      Jupiter\u2019s extreme weather and crushing pressure make it a no-go \u2014
+      at least for life as we know it.\r\n\r\nOh, and moons? Jupiter has 95 of them
+      \u2014 more than any other planet we know!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25051114438656
+    m_Localized: "Saturn \u2013 The Lord of the Rings\r\n\r\nSaturn is the 6th planet
+      from the Sun and the second-largest in the solar system. It's a giant sphere
+      of hydrogen and helium, known for its stunning ring system \u2014 the most
+      spectacular of any planet.\r\n\r\nThose rings? They're made of billions of
+      icy and rocky chunks, from grains of dust to pieces the size of houses \u2014
+      some even as big as mountains. They're likely the remains of shattered moons,
+      asteroids, or comets, ripped apart by Saturn's intense gravity. Each ring orbits
+      at its own speed, creating a complex, swirling system.\r\n\r\nSaturn also has
+      a huge collection of moons \u2014 146 confirmed as of 2023, with more still
+      awaiting official names."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25169897127936
+    m_Localized: "Neptune \u2013 The Windy Blue Giant\r\n\r\nNeptune is the 8th and
+      farthest planet from the Sun \u2014 a dark, icy world over 30 times farther
+      from the Sun than Earth. It\u2019s cold, remote, and blasted by supersonic
+      winds, making it one of the most extreme places in the solar system.\r\n\r\nDiscovered
+      in 1846, Neptune is the only planet not visible to the naked eye. In 2011,
+      it finally completed its first full orbit since being found \u2014 that\u2019s
+      165 Earth years per Neptune year!\r\n\r\nSunlight on Neptune is about 900 times
+      dimmer than on Earth \u2014 even at noon, it looks like twilight.\r\n\r\nA
+      day on Neptune? Just 16 hours long.\r\n\nIt\u2019s surrounded by five main
+      rings and four bright arcs, likely young and short-lived. The main rings are
+      named Galle, Leverrier, Lassell, Arago, and Adams."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25484184715264
+    m_Localized: "Uranus \u2013 The Tilted Ice Giant\r\n\r\nUranus is the 7th planet
+      from the Sun and has the third-largest diameter in the solar system. It's a
+      cold, windy ice giant with a strange twist \u2014 it spins on its side, tilted
+      almost 90 degrees, making it orbit the Sun like a rolling ball.\r\n\r\nIt\u2019s
+      surrounded by 13 faint rings and 28 known moons, all moving through its chilly,
+      blue atmosphere.\r\n\r\nUranus was the first planet discovered with a telescope,
+      spotted in 1781 by William Herschel \u2014 though he first thought it was a
+      comet or star. It took two more years before it was recognized as a planet.\r\n\r\nA
+      day on Uranus lasts about 17 hours, and a full year takes 84 Earth years."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 25828562239488
+    m_Localized: Laika was a Soviet space dog who was one of the first animals in
+      space and the first to orbit the Earth. A stray mongrel from the streets of
+      Moscow, she flew aboard the Sputnik 2 spacecraft, launched into low orbit on
+      3 November 1957. As the technology to re-enter the atmosphere had not yet been
+      developed, sadly Laika's survival was never expected. Soviet scientists chose
+      to use Moscow strays since they assumed that such animals had already learned
+      to endure conditions of extreme cold and hunger.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26116966776832
+    m_Localized: "A long time ago, on July 20, 1969, something amazing happened\u2014people
+      walked on the Moon for the very first time! The mission was called Apollo 11,
+      and it was a huge step for the whole world. The astronauts explored the Moon,
+      collected rocks and soil, set up experiments, took photos and videos, planted
+      the American flag, and left a plaque that said, \u201CWe came in peace for
+      all mankind.\u201D They even left a special mirror that helps scientists measure
+      the distance to the Moon!\n\nThe crew members were:\nNeil Armstrong \u2013
+      the first person to step on the Moon!\nEdwin \u201CBuzz\u201D Aldrin\nMichael
+      Collins\n\nApollo 11 was the last mission to use something called a free-return
+      trajectory. This meant the spacecraft could loop around the Moon and return
+      to Earth without using its engines in an emergency\u2014a smart safety plan!
+      After 8 days in space, the crew splashed down in the ocean and was picked up
+      by a ship. They were celebrated as heroes!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26312714944512
+    m_Localized: Mars rovers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26555992965120
+    m_Localized: "For over 60 years, NASA has been exploring one big mystery: could
+      Mars have once been home to life? To find out, NASA has sent a team of amazing
+      robot explorers\u2014like orbiters, landers, and rovers\u2014to study the Red
+      Planet up close. These robots are built to do cool science jobs and even have
+      parts that are kind of like ours\u2014\u201Cheads\u201D to see, \u201Carms\u201D
+      to reach, and \u201Clegs\u201D to move around!\n\nOne of the newest and most
+      exciting robots is named Perseverance. This rover is like a space detective,
+      searching for clues that tiny life forms\u2014called microbes\u2014might have
+      lived on Mars long ago. It\u2019s also collecting rock and soil samples that
+      could one day be brought back to Earth for scientists to study."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 26906498367488
+    m_Localized: Food in space
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27168738836480
+    m_Localized: Sleeping in space
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27434523492352
+    m_Localized: 'Astronauts go to bed in their "sleep stations," personal sleep
+      compartments the size of a telephone booth, which have:
+
+
+      a sleeping
+      bag
+
+      a pillow
+
+      a lamp
+
+      an air vent
+
+      a personal laptop
+
+      a
+      place for personal belongings
+
+
+      Crew members who want to sleep outside
+      the sleep compartments can secure their sleeping bag to the floor, the ceiling
+      or the wall. In the weightless environment of space, the carbon dioxide (CO2)
+      that astronauts expel could form a bubble around their head. That is why they
+      have to sleep near an air vent.
+
+
+      While orbiting the Earth, astronauts
+      witness 16 sunrises and sunsets every 24 hours. Seeing a sunrise every 90 minutes
+      may seem like an incredible experience, it can also make it difficult for astronauts
+      to maintain a regular sleep pattern. They generally use earplugs and a sleep
+      mask to block out the noise and light.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27698831753216
+    m_Localized: "Voyager 1 and Voyager 2 are two brave robot explorers sent into
+      space by NASA in 1977. They were built to visit the giant planets\u2014Jupiter,
+      Saturn, Uranus, and Neptune\u2014and take amazing pictures and study their
+      moons, rings, and atmospheres. \n\nAfter their planet adventures, the Voyagers
+      had a new mission\u2014exploring beyond the Solar System! They are now in interstellar
+      space, the area outside the Sun\u2019s protective bubble called the heliosphere.\nEven
+      now, they\u2019re still sending messages back to Earth, measuring space stuff
+      like magnetic fields and cosmic rays. They may keep talking to us until around
+      2030!\n\nEach Voyager carries a Golden Record with sounds, music, and pictures
+      from Earth\u2014like a time capsule for aliens!\n\nThe Voyagers are the farthest
+      human-made objects in space. Tiny\u2026 but mighty!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

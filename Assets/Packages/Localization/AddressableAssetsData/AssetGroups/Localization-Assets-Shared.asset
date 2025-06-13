@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2ad20a7d31cd35b4897ba9bfc66bd92d
+  m_SerializeEntries:
+  - m_GUID: 0447138d43703b9468b563241f0441ee
+    m_Address: Assets/Packages/Localization/LocalizationSettings/Tables/Tasks Shared
+      Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 522174fc40f37f048a82830d92a021d4
+    m_Address: Assets/New Table Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5470e116f198d644b631fd96db8bd26
+    m_Address: Assets/Packages/Localization/LocalizationSettings/Tables/Questions
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e3b1d31b6db712b489a0da81d70d69d6
+    m_Address: Assets/Packages/Localization/LocalizationSettings/Tables/Descriptions
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: dbdcbee92ca932c45bcd1644de186fee, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: cbe730e0c3211434384d906683b8690d, type: 2}
+    - {fileID: 11400000, guid: 97dfeb9174a767d40892a8900e4f68a8, type: 2}

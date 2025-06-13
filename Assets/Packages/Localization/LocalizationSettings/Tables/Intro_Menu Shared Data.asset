@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Intro_Menu Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Intro_Menu
+  m_TableCollectionNameGuidString: 522174fc40f37f048a82830d92a021d4
+  m_Entries:
+  - m_Id: 1039332212736
+    m_Key: intro_continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 835454383882240
+    m_Key: intro_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 836339373637632
+    m_Key: intro_text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4740712302575616
+    m_Key: main_menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4740860038545408
+    m_Key: new_game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4740972768854016
+    m_Key: assets
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4741028288856064
+    m_Key: settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4741270002401280
+    m_Key: controls
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4741319621017600
+    m_Key: quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4743496624177152
+    m_Key: continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4753561242501120
+    m_Key: movement_s
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4753733817139200
+    m_Key: rotation_s
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4753783096016896
+    m_Key: language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4753825945026560
+    m_Key: raycast
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4753898003169280
+    m_Key: left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4753919264096256
+    m_Key: right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4753939405144064
+    m_Key: english
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4753971814531072
+    m_Key: slovak
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4755366496108544
+    m_Key: ui
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4755505017192448
+    m_Key: movement
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4755829098479616
+    m_Key: rotation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4755914322542592
+    m_Key: grab
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6028748873203712
+    m_Key: use
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7015080772698112
+    m_Key: restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7015644625567744
+    m_Key: apply
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7015709205266432
+    m_Key: back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7016944671064064
+    m_Key: congrats
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7017181213032448
+    m_Key: end_text
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7928038056382955522
+  references:
+    version: 2
+    RefIds:
+    - rid: 7928038056382955522
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1745930080402
